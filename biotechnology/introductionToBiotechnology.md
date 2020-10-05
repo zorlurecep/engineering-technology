@@ -1,10 +1,3 @@
----
-tags: [Biotechnology]
-title: Introduction to Biotechnology
-created: '2020-10-02T06:37:09.337Z'
-modified: '2020-10-02T07:33:25.289Z'
----
-
 # Introduction to Biotechnology
 
 ## Introduction
